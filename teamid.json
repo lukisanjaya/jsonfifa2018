@@ -4,243 +4,560 @@
     "teamId": 757,
     "name": "null",
     "fifaCode": "null",
-    "flag": "null"
+    "flag": "null",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "758": {
     "id": 4,
     "teamId": 758,
     "name": "Uruguay",
     "fifaCode": "URU",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "759": {
     "id": 21,
     "teamId": 759,
     "name": "Germany",
     "fifaCode": "GER",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "760": {
     "id": 6,
     "teamId": 760,
     "name": "Spain",
     "fifaCode": "ESP",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "762": {
     "id": 13,
     "teamId": 762,
     "name": "Argentina",
     "fifaCode": "ARG",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "764": {
     "id": 17,
     "teamId": 764,
     "name": "Brazil",
     "fifaCode": "BRA",
-    "iso2": "br",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png",
-    "emoji": "flag-br",
-    "emojiString": "🇧🇷"
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "765": {
     "id": 5,
     "teamId": 765,
     "name": "Portugal",
     "fifaCode": "POR",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "766": {
     "id": 32,
     "teamId": 766,
     "name": "Japan",
     "fifaCode": "JPN",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "769": {
     "id": 22,
     "teamId": 769,
     "name": "Mexico",
     "fifaCode": "MEX",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "770": {
     "id": 28,
     "teamId": 770,
     "name": "England",
     "fifaCode": "ENG",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "772": {
     "id": 24,
     "teamId": 772,
     "name": "South Korea",
     "fifaCode": "KOR",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "773": {
     "id": 9,
     "teamId": 773,
     "name": "France",
     "fifaCode": "FRA",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "776": {
     "id": 16,
     "teamId": 776,
     "name": "Nigeria",
     "fifaCode": "NGA",
-    "iso2": "ng",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.png",
-    "emoji": "flag-ng",
-    "emojiString": "🇳🇬"
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "779": {
     "id": 10,
     "teamId": 779,
     "name": "Australia",
     "fifaCode": "AUS",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "780": {
     "id": 20,
     "teamId": 780,
     "name": "Serbia",
     "fifaCode": "SRB",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "782": {
     "id": 12,
     "teamId": 782,
     "name": "Denmark",
     "fifaCode": "DEN",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "788": {
     "id": 18,
     "teamId": 788,
     "name": "Switzerland",
     "fifaCode": "SUI",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/320px-Flag_of_Switzerland_%28Pantone%29.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/320px-Flag_of_Switzerland_%28Pantone%29.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "792": {
     "id": 23,
     "teamId": 792,
     "name": "Sweden",
     "fifaCode": "SWE",
-    "iso2": "se",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "793": {
     "id": 19,
     "teamId": 793,
     "name": "Costa Rica",
     "fifaCode": "CRC",
-    "iso2": "cr",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png",
-    "emoji": "flag-cr",
-    "emojiString": "🇨🇷"
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "794": {
     "id": 29,
     "teamId": 794,
     "name": "Poland",
     "fifaCode": "POL",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "799": {
     "id": 15,
     "teamId": 799,
     "name": "Croatia",
     "fifaCode": "CRO",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "801": {
     "id": 2,
     "teamId": 801,
     "name": "Saudi Arabia",
     "fifaCode": "KSA",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "802": {
     "id": 27,
     "teamId": 802,
     "name": "Tunisia",
     "fifaCode": "TUN",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "804": {
     "id": 30,
     "teamId": 804,
     "name": "Senegal",
     "fifaCode": "SEN",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1024px-Flag_of_Senegal.svg.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1024px-Flag_of_Senegal.svg.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "805": {
     "id": 25,
     "teamId": 805,
     "name": "Belgium",
     "fifaCode": "BEL",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/450px-Flag_of_Belgium.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/450px-Flag_of_Belgium.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "808": {
     "id": 1,
     "teamId": 808,
     "name": "Russia",
     "fifaCode": "RUS",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/900px-Flag_of_Russia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/900px-Flag_of_Russia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "815": {
     "id": 7,
     "teamId": 815,
     "name": "Morocco",
     "fifaCode": "MAR",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "818": {
     "id": 31,
     "teamId": 818,
     "name": "Colombia",
     "fifaCode": "COL",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "825": {
     "id": 3,
     "teamId": 825,
     "name": "Egypt",
     "fifaCode": "EGY",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/900px-Flag_of_Egypt.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/900px-Flag_of_Egypt.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "832": {
     "id": 11,
     "teamId": 832,
     "name": "Peru",
     "fifaCode": "PER",
-    "iso2": "pe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/900px-Flag_of_Peru_%28state%29.png",
-    "emoji": "flag-pe",
-    "emojiString": "🇵🇪"
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "840": {
     "id": 8,
     "teamId": 840,
     "name": "Iran",
     "fifaCode": "IRN",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "1066": {
     "id": 14,
     "teamId": 1066,
     "name": "Iceland",
     "fifaCode": "ISL",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   },
   "1836": {
     "id": 26,
     "teamId": 1836,
     "name": "Panama",
     "fifaCode": "PAN",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/450px-Flag_of_Panama.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/450px-Flag_of_Panama.png",
+    "result": {
+      "play": 0,
+      "win": 0,
+      "lose": 0,
+      "draw": 0,
+      "gf": 0,
+      "ga": 0,
+      "plusmin": 0,
+      "poin": 0
+    }
   }
 }
