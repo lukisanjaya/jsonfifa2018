@@ -368,8 +368,8 @@
       "lose": 1,
       "draw": 0,
       "gf": 0,
-      "ga": 3,
-      "plusmin": -3,
+      "ga": 4,
+      "plusmin": -4,
       "poin": 0
     }
   },
@@ -435,9 +435,9 @@
       "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 3,
+      "gf": 4,
       "ga": 0,
-      "plusmin": 3,
+      "plusmin": 4,
       "poin": 3
     }
   },
