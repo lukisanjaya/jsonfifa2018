@@ -57,14 +57,14 @@
     "fifaCode": "ESP",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf": 3,
+      "ga": 3,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "762": {
@@ -108,14 +108,14 @@
     "fifaCode": "POR",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf": 3,
+      "ga": 3,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "766": {
