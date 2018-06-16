@@ -74,14 +74,14 @@
     "fifaCode": "ARG",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf": 1,
+      "ga": 1,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "764": {
@@ -533,14 +533,14 @@
     "fifaCode": "ISL",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf": 1,
+      "ga": 1,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "1836": {
