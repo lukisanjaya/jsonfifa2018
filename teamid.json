@@ -210,13 +210,13 @@
     "fifaCode": "NGA",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
       "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
+      "ga": 2,
+      "plusmin": -2,
       "poin": 0
     }
   },
@@ -346,14 +346,14 @@
     "fifaCode": "CRO",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png",
     "result": {
-      "play": 0,
-      "win": 0,
+      "play": 1,
+      "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 0,
+      "gf": 2,
       "ga": 0,
-      "plusmin": 0,
-      "poin": 0
+      "plusmin": 2,
+      "poin": 3
     }
   },
   "801": {
