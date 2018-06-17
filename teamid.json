@@ -40,13 +40,13 @@
     "fifaCode": "GER",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
       "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
+      "ga": 1,
+      "plusmin": -1,
       "poin": 0
     }
   },
@@ -91,14 +91,14 @@
     "fifaCode": "BRA",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf": 1,
+      "ga": 1,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "765": {
@@ -142,14 +142,14 @@
     "fifaCode": "MEX",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png",
     "result": {
-      "play": 0,
-      "win": 0,
+      "play": 1,
+      "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 0,
+      "gf": 1,
       "ga": 0,
-      "plusmin": 0,
-      "poin": 0
+      "plusmin": 1,
+      "poin": 3
     }
   },
   "770": {
@@ -278,14 +278,14 @@
     "fifaCode": "SUI",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/320px-Flag_of_Switzerland_%28Pantone%29.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
       "lose": 0,
-      "draw": 0,
-      "gf": 0,
-      "ga": 0,
+      "draw": 1,
+      "gf":1,
+      "ga": 1,
       "plusmin": 0,
-      "poin": 0
+      "poin": 1
     }
   },
   "792": {
