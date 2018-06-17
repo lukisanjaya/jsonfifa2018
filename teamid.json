@@ -244,14 +244,14 @@
     "fifaCode": "SRB",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png",
     "result": {
-      "play": 0,
-      "win": 0,
+      "play": 1,
+      "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 0,
+      "gf": 1,
       "ga": 0,
-      "plusmin": 0,
-      "poin": 0
+      "plusmin": 1,
+      "poin": 3
     }
   },
   "782": {
@@ -312,13 +312,13 @@
     "fifaCode": "CRC",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
       "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
+      "ga": 1,
+      "plusmin": -1,
       "poin": 0
     }
   },
