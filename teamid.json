@@ -159,14 +159,14 @@
     "fifaCode": "ENG",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png",
     "result": {
-      "play": 0,
-      "win": 0,
+      "play": 1,
+      "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
-      "poin": 0
+      "gf": 2,
+      "ga": 1,
+      "plusmin": 1,
+      "poin": 3
     }
   },
   "772": {
@@ -380,13 +380,13 @@
     "fifaCode": "TUN",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
-      "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
+      "gf": 1,
+      "ga": 2,
+      "plusmin": -1,
       "poin": 0
     }
   },
