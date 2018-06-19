@@ -125,14 +125,14 @@
     "fifaCode": "JPN",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png",
     "result": {
-      "play": 0,
-      "win": 0,
+      "play": 1,
+      "win": 1,
       "lose": 0,
       "draw": 0,
-      "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
-      "poin": 0
+      "gf": 2,
+      "ga": 1,
+      "plusmin": 1,
+      "poin": 3
     }
   },
   "769": {
@@ -465,13 +465,13 @@
     "fifaCode": "COL",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png",
     "result": {
-      "play": 0,
+      "play": 1,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
-      "gf": 0,
-      "ga": 0,
-      "plusmin": 0,
+      "gf": 1,
+      "ga": 2,
+      "plusmin": -1,
       "poin": 0
     }
   },
