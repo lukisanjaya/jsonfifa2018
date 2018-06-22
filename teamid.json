@@ -210,14 +210,14 @@
     "fifaCode": "NGA",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.png",
     "result": {
-      "play": 1,
-      "win": 0,
+      "play": 2,
+      "win": 1,
       "lose": 1,
       "draw": 0,
-      "gf": 0,
+      "gf": 2,
       "ga": 2,
-      "plusmin": -2,
-      "poin": 0
+      "plusmin": 0,
+      "poin": 3
     }
   },
   "779": {
@@ -244,13 +244,13 @@
     "fifaCode": "SRB",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png",
     "result": {
-      "play": 1,
+      "play": 2,
       "win": 1,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
       "gf": 1,
-      "ga": 0,
-      "plusmin": 1,
+      "ga": 2,
+      "plusmin": -1,
       "poin": 3
     }
   },
@@ -278,14 +278,14 @@
     "fifaCode": "SUI",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/320px-Flag_of_Switzerland_%28Pantone%29.png",
     "result": {
-      "play": 1,
-      "win": 0,
+      "play": 2,
+      "win": 1,
       "lose": 0,
       "draw": 1,
-      "gf":1,
-      "ga": 1,
-      "plusmin": 0,
-      "poin": 1
+      "gf":3,
+      "ga": 2,
+      "plusmin": 1,
+      "poin": 4
     }
   },
   "792": {
@@ -533,13 +533,13 @@
     "fifaCode": "ISL",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png",
     "result": {
-      "play": 1,
+      "play": 2,
       "win": 0,
-      "lose": 0,
+      "lose": 1,
       "draw": 1,
       "gf": 1,
-      "ga": 1,
-      "plusmin": 0,
+      "ga": 3,
+      "plusmin": -2,
       "poin": 1
     }
   },
