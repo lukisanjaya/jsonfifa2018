@@ -348,13 +348,13 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/pol.png",
     "result": {
-      "play": 1,
+      "play": 2,
       "win": 0,
-      "lose": 1,
+      "lose": 2,
       "draw": 0,
       "gf": 1,
-      "ga": 2,
-      "plusmin": -1,
+      "ga": 5,
+      "plusmin": -4,
       "poin": 0
     }
   },
@@ -492,14 +492,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/colombia.png",
     "result": {
-      "play": 1,
-      "win": 0,
+      "play": 2,
+      "win": 1,
       "lose": 1,
       "draw": 0,
-      "gf": 1,
+      "gf": 4,
       "ga": 2,
-      "plusmin": -1,
-      "poin": 0
+      "plusmin": 2,
+      "poin": 3
     }
   },
   "825": {
