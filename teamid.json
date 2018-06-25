@@ -24,14 +24,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/uru.png",
     "result": {
-      "play": 2,
-      "win": 2,
+      "play": 3,
+      "win": 3,
       "lose": 0,
       "draw": 0,
-      "gf": 2,
+      "gf": 5,
       "ga": 0,
-      "plusmin": 2,
-      "poin": 6
+      "plusmin": 5,
+      "poin": 9
     }
   },
   "759": {
@@ -60,14 +60,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/esp.png",
     "result": {
-      "play": 2,
+      "play": 3,
       "win": 1,
       "lose": 0,
-      "draw": 1,
-      "gf": 4,
-      "ga": 3,
+      "draw": 2,
+      "gf": 6,
+      "ga": 5,
       "plusmin": 1,
-      "poin": 4
+      "poin": 5
     }
   },
   "762": {
@@ -384,14 +384,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/arabia.png",
     "result": {
-      "play": 2,
-      "win": 0,
+      "play": 3,
+      "win": 1,
       "lose": 2,
       "draw": 0,
-      "gf": 0,
-      "ga": 6,
-      "plusmin": -6,
-      "poin": 0
+      "gf": 2,
+      "ga": 7,
+      "plusmin": -5,
+      "poin": 3
     }
   },
   "802": {
@@ -456,13 +456,13 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/900px-Flag_of_Russia.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/rusia.png",
     "result": {
-      "play": 2,
+      "play": 3,
       "win": 2,
-      "lose": 0,
+      "lose": 1,
       "draw": 0,
       "gf": 8,
-      "ga": 1,
-      "plusmin": 7,
+      "ga": 4,
+      "plusmin": 4,
       "poin": 6
     }
   },
@@ -474,14 +474,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/mar.png",
     "result": {
-      "play": 2,
+      "play": 3,
       "win": 0,
       "lose": 2,
-      "draw": 0,
-      "gf": 0,
-      "ga": 2,
+      "draw": 1,
+      "gf": 2,
+      "ga": 4,
       "plusmin": -2,
-      "poin": 0
+      "poin": 1
     }
   },
   "818": {
@@ -510,13 +510,13 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/900px-Flag_of_Egypt.png",
     "flag_mini": "https://pialadunia.jpnn.com/static/img/clubs-logos/egy.png",
     "result": {
-      "play": 2,
+      "play": 3,
       "win": 0,
-      "lose": 2,
+      "lose": 3,
       "draw": 0,
-      "gf": 1,
-      "ga": 4,
-      "plusmin": -3,
+      "gf": 2,
+      "ga": 6,
+      "plusmin": -4,
       "poin": 0
     }
   },
