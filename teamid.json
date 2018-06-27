@@ -262,7 +262,7 @@
       "win": 1,
       "lose": 2,
       "draw": 0,
-      "gf": 1,
+      "gf": 2,
       "ga": 4,
       "plusmin": -3,
       "poin": 3
